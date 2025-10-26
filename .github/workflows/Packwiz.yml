@@ -14,10 +14,10 @@ jobs:
   
       - uses: actions/checkout@v4
         with:
-          ref: master
-          path: master
-      - name: build master pack
-        working-directory: master
+          ref: main
+          path: main
+      - name: build main pack
+        working-directory: main
         run: |
           bash -c "rm -rf $(cat .packwizignore | xargs)"
           echo "hash-format = \"sha256\"" > index.toml
@@ -41,7 +41,7 @@ jobs:
           
   deploy:
     runs-on: ubuntu-24.04
-    if: github.ref == 'refs/heads/master'
+    if: github.ref == 'refs/heads/main'
     environment:
       name: github-pages
       url: ${{ steps.deployment.outputs.page_url }}
