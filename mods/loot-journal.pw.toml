@@ -1,0 +1,13 @@
+name = "Loot Journal"
+filename = "Loot Journal-fabric-1.20.1-5.0.1.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/OJ6ZYz5L/versions/3WE4RTDk/Loot%20Journal-fabric-1.20.1-5.0.1.jar"
+hash-format = "sha512"
+hash = "34155cc61efdaf7ebd354aa1d25f5a3b327fe6e062348e770aea802bef77b0753b212b1acad1781d5fea1c2c5a0c9a0287ed05d3f912b4fcf04d9f45fdda1d4b"
+
+[update]
+[update.modrinth]
+mod-id = "OJ6ZYz5L"
+version = "3WE4RTDk"

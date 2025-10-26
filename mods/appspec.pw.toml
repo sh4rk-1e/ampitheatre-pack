@@ -1,0 +1,13 @@
+name = "Applied Spectrometry"
+filename = "appspec-1.0.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/9qN7Lbex/versions/vYtoPSXr/appspec-1.0.1.jar"
+hash-format = "sha512"
+hash = "90a936804bb8f0f110aea5f15a25fe2943d88721cbad4411520d23003e0fd9016f91056ee01a9972c693b13ab19b516a5a2df8800d535b6cf201d1a97b942c13"
+
+[update]
+[update.modrinth]
+mod-id = "9qN7Lbex"
+version = "vYtoPSXr"

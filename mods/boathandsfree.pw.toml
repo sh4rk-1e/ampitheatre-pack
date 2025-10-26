@@ -1,0 +1,13 @@
+name = "BoatHandsFree"
+filename = "boathandsfree-v1.0.1-mc1.18.2-1.20.4-fabric.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/focMWRqn/versions/SvsPQM1N/boathandsfree-v1.0.1-mc1.18.2-1.20.4-fabric.jar"
+hash-format = "sha512"
+hash = "8255582f21502188c3bf084e8e45399e304a6139e356b01d78cba1df4f061e5201928982e5c78c6f583a4c7663a3f27ea5196b7215568713f3b2e3e8bcdb0102"
+
+[update]
+[update.modrinth]
+mod-id = "focMWRqn"
+version = "SvsPQM1N"
