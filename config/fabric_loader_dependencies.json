@@ -13,7 +13,7 @@
         },
         "ephemera": {
             "depends": {
-                "hexal": "0.3.0-05823bd"
+                "hexal": "0.3.0-301756e"
             }
         },
         "hexchanting": {
@@ -23,7 +23,7 @@
         },
         "hexic": {
             "depends": {
-                "hexal": "0.3.0-05823bd"
+                "hexal": "0.3.0-301756e"
             }
         },
         "hexportation": {
@@ -38,7 +38,7 @@
         },
         "oneironaut": {
             "depends": {
-                "hexal": "0.3.0-05823bd"
+                "hexal": "0.3.0-301756e"
             }
         }
     }
