@@ -3,12 +3,12 @@
     "overrides": {
         "hexal": {
             "depends": {
-                "hexcasting": "0.11.2-285c9df"
+                "hexcasting": "0.11.2-821ae79"
             }
         },
         "complexhex": {
             "depends": {
-                "hexcasting": "0.11.2-285c9df"
+                "hexcasting": "0.11.2-821ae79"
             }
         },
         "ephemera": {
@@ -18,7 +18,7 @@
         },
         "hexchanting": {
             "depends": {
-                "hexcasting": "0.11.2-285c9df"
+                "hexcasting": "0.11.2-821ae79"
             }
         },
         "hexic": {
@@ -28,12 +28,12 @@
         },
         "hexportation": {
             "depends": {
-                "hexcasting": "0.11.2-285c9df"
+                "hexcasting": "0.11.2-821ae79"
             }
         },
         "lessertp": {
             "depends": {
-                "hexcasting": "0.11.2-285c9df"
+                "hexcasting": "0.11.2-821ae79"
             }
         },
         "oneironaut": {
