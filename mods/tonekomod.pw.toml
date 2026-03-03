@@ -1,0 +1,13 @@
+name = "toNekoMod"
+filename = "toneko-fabric-1.3.11.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/QFxgeSVF/versions/HHf2CSVX/toneko-fabric-1.3.11.jar"
+hash-format = "sha512"
+hash = "59562213e5914edff2f8ee86a562628c20b9eb908988c7111b8385b18eaa873bf7fcf8512f885d4b7b78bfc3b6c564dea4dd82491b00102bc03060627199b90a"
+
+[update]
+[update.modrinth]
+mod-id = "QFxgeSVF"
+version = "HHf2CSVX"
